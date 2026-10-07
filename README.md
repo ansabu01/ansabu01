@@ -14,7 +14,7 @@ My projects focus on:
 - Deep learning and network methods
 - Reproducible empirical research
 
-## Selected work
+## Projects
 
 [**Institutional Crowding and Equity Fragility**](https://github.com/ansabu01/institutional-crowding-equity-fragility)  
 Predicting stock-level downside risk using market information, institutional ownership, gradient-boosted models, and graph neural networks.
@@ -28,6 +28,6 @@ Interpretable analysis of European street-level sensor data to identify the envi
 [**Linear vs. Kernel Models in Simulated Returns**](https://github.com/ansabu01/Linear_vs_Kernel_Models_in_Simulated_Returns)  
 Simulation study comparing linear regression and kernel ridge regression under nonlinear and regime-switching return processes.
 
-## Technologies
+## Methods & Tools
 
 Python · SQL · R · Jupyter · Git · LaTeX
