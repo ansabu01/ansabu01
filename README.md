@@ -9,9 +9,9 @@ I am interested in quantitative finance, statistical modeling, and applied machi
 My projects focus on:
 
 - Financial econometrics and time series
-- Machine learning for financial markets
+- Machine learning for financial markets (and beyond)
 - Risk modeling and portfolio analysis
-- Institutional ownership and network methods
+- Deep learning and network methods
 - Reproducible empirical research
 
 ## Selected work
